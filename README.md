@@ -17,9 +17,6 @@
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-
 --
 
 ### 📊 Data Science & Machine Learning  
