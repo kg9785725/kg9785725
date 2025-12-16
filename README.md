@@ -1,14 +1,13 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Kirti </h1>
-<h3 align="center">Python | Data Science | Machine Learning | SQL | Analytics</h3>
+<h3 align="center">Python | SQL | Analytics</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🔍 Passionate about **Data Science & Machine Learning**  
 - 📊 Skilled in **Python, SQL, Pandas, NumPy, Sklearn, TensorFlow**  
 - 📚 Continuously learning and building real-world projects  
-- 🎯 Goal: Become a **Data Scientist / ML Engineer**  
+
 
 ---
 
